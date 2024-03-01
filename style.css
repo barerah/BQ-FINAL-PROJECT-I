@@ -677,7 +677,7 @@ form{
 }
 @media screen and (max-width:480px){
     .home{
-        margin-bottom: 60px;
+        margin-bottom: 90px;
     }
 
     .home-img{
@@ -700,6 +700,6 @@ form{
         font-size: 2rem;
     }
     .booking-content{
-        margin-left: 90px;
+        margin-left: 50px;
     }
 }    

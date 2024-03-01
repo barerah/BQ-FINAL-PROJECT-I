@@ -677,7 +677,7 @@ form{
 }
 @media screen and (max-width:480px){
     .home{
-        margin-bottom: 90px;
+        margin-bottom: 60px;
     }
 
     .home-img{
@@ -693,7 +693,7 @@ form{
         margin-right: 30px;
     }
     .about-img img{
-        width: 100%;
+        width: 350px;
         height: auto;
     }
     .testimonial-text h2{
